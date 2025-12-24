@@ -8,10 +8,10 @@ Implementação didática de grafo de conhecimento com nós/arestas em dicionár
 - Impressão de grafo e análise de complexidade
 
 ## Como usar
-grafo = KnowledgeGraph()
-grafo.adicionar_no("LeBron", "Jogador")
-grafo.adicionar_relacionamento("LeBron", "rival", "Curry")
-print(grafo.buscar_nos_por_tipo("Jogador"))
+-grafo = KnowledgeGraph()
+-grafo.adicionar_no("LeBron", "Jogador")
+-grafo.adicionar_relacionamento("LeBron", "rival", "Curry")
+-print(grafo.buscar_nos_por_tipo("Jogador"))
 
 
 ## Análise de Complexidade
