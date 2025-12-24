@@ -19,8 +19,8 @@ print(grafo.buscar_nos_por_tipo("Jogador"))
 - Travessias: **O(N)/O(E)**
 - Otimização proposta: índice `nos_por_tipo`
 
-## 📄 Relatório Técnico
+## Relatório Técnico
 [PDF completo com análise detalhada]
 
-## 🛠️ Tech
+## Tech
 Python | Dicionários | Big O | Triplas semânticas
