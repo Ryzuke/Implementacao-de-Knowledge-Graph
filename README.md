@@ -24,3 +24,6 @@ Implementação didática de grafo de conhecimento com nós/arestas em dicionár
 
 ## Tech
 Python | Dicionários | Big O | Triplas semânticas
+
+## Autor
+Desenvolvido por Diego Amaral como projeto prático para a disciplina de Estrutura de Dados (4º Período).
